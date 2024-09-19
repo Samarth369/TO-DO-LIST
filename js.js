@@ -12,7 +12,7 @@ function createli(){
     nlist.classList.add("li");  
     ollist.appendChild(nlist);
     
-    var x = document.createElement("INPUT");
+    const x = document.createElement("INPUT");
     x.setAttribute("type", "checkbox");
     x.style.margin="0px 10px 0px 10px";
     nlist.prepend(x);
