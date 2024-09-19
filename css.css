@@ -81,16 +81,4 @@ body{
     border-radius: 10px; 
 }
 
-.licut{
-    height: 50px;
-    width: 100%;
-    align-content: center;
-    list-style: none;
-    font: 1em sans-serif;
-    margin: 10px 0px 0px 0px ;
-    color: #ffffff;
-    background: #0E6BA8;
-    border-radius: 10px;
-    text-decoration: line-through;
-}
 
